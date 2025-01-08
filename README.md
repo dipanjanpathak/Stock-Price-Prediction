@@ -1,1 +1,1 @@
-![Prediction Graph](mislanious\images\graph.png)
+![Prediction Graph](mislanious/images/graph.png)
