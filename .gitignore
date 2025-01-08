@@ -1,0 +1,38 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+
+# Django specific files
+db.sqlite3
+/static/
+media/
+
+# Pytest and coverage
+*.coverage
+.coverage.*
+.cache
+htmlcov/
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Git-specific files
+*.orig
+
+# Environment variables
+.env
